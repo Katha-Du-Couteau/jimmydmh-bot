@@ -14,7 +14,6 @@
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/jimmy-daniel-marmol-henriquez-88a604235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Katha-Du-Couteau" height="30" width="40" /></a>
 <a href="https://www.instagram.com/soy_jim2003/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Katha-Du-Couteau" height="30" width="40" /></a>
 </p>
 
